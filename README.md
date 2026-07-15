@@ -1,12 +1,10 @@
-# Personal-Portfolio-Website
+# Personal-Portfolio-Website  🌐
 <img width="1255" height="611" alt="portfolio" src="https://github.com/user-attachments/assets/58a1534f-2f23-4a8d-979c-b913bc9cb53c" />
 
-)
 
 
-# Amine Portfolio Website 🌐
-
-Welcome to my **personal portfolio website**! This website showcases my skills, projects, blog posts, and contact information in a modern, responsive, and interactive layout.
+Welcome to my **personal portfolio website**!
+This website showcases my skills, projects and contact information in a modern, responsive, and interactive layout.
 
 ---
 
@@ -81,8 +79,8 @@ This project is licensed under the terms described in the [LICENSE](License) fil
 
 ## 📬 Contact
 
-- Email: aminehamzaoui1925@gmail.com   
-- Location: Boumerdès, Algeria  
+- Email: prathamlpatil837@gmail.com   
+- Location: Pune,Maharashtra,India 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
 - GitHub: [GitHub](https://github.com/Saboo24)  
 - Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
