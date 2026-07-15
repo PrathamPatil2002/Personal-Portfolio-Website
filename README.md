@@ -65,7 +65,7 @@ portfolio4/
 
 ## 💡 Usage
 
-- Showcase your personal projects, skills, and blog posts.  
+- Showcase your personal projects, skills. 
 - Use as a template for your own portfolio by replacing images, text, and links.  
 - The contact form can be connected to your preferred email service or backend.
 
@@ -81,6 +81,5 @@ This project is licensed under the terms described in the [LICENSE](License) fil
 
 - Email: prathamlpatil837@gmail.com   
 - Location: Pune,Maharashtra,India 
-- LinkedIn: [LinkedIn](https://www.linkedin.com/in/mohamed-amine-hamzaoui-a2453a35b/)  
-- GitHub: [GitHub](https://github.com/Saboo24)  
-- Instagram: [Instagram](https://www.instagram.com/a__m.i.n__e/?utm_source=ig_web_button_share_sheet)
+- LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratham-patil-3a8ba9282/)  
+- GitHub: [GitHub](https://github.com/PrathamPatil2002)  
