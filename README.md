@@ -53,11 +53,11 @@ portfolio4/
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Saboo24/portfolio4.git
+   git clone https://github.com/PrathamPatil2002/Personal-Portfolio-Website.git
    ```
 2. Navigate to the project folder:
    ```bash
-   cd portfolio4
+   cd Personal-Portfolio-Website
    ```
 3. Open `index.html` in your favorite browser to view the website.
 
