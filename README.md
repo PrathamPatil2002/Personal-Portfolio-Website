@@ -1,6 +1,6 @@
 # Personal-Portfolio-Website
+<img width="1255" height="611" alt="portfolio" src="https://github.com/user-attachments/assets/58a1534f-2f23-4a8d-979c-b913bc9cb53c" />
 
-![Portfolio Screenshot](<img width="1255" height="611" alt="portfolio" src="https://github.com/user-attachments/assets/afd07fc7-5143-4716-bd12-034288ff6cb8" />
 )
 
 
