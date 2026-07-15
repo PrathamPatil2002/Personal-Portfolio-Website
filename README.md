@@ -10,7 +10,7 @@ This website showcases my skills, projects and contact information in a modern, 
 
 ## Live Demo 🚀
 
-You can view the live website here: [Live Demo](https://dynamic-selkie-d79581.netlify.app/)
+You can view the live website here: [Live Demo] (https://prathampatil2002.github.io/Personal-Portfolio-Website/)
 
 ---
 
