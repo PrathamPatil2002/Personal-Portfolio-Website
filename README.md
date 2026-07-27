@@ -82,4 +82,7 @@ This project is licensed under the terms described in the [LICENSE](License) fil
 - Email: prathamlpatil837@gmail.com   
 - Location: Pune,Maharashtra,India 
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/pratham-patil-3a8ba9282/)  
-- GitHub: [GitHub](https://github.com/PrathamPatil2002)  
+- GitHub: [GitHub](https://github.com/PrathamPatil2002)
+
+ ⭐ If you like this project, don't forget to star the repository!
+
